@@ -21,3 +21,4 @@ def reverse_list_simple(list_int: [int]) -> [int]:
 
 
 print('reverse list : ', reverse_list([-20, 2, -5, 10, 12]))
+print('reverse list simple : ', reverse_list_simple([-20, 2, -5, 10, 12]))
